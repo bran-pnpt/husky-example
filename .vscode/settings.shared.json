@@ -13,7 +13,7 @@
   "i18n-ally.keystyle": "nested",
   "i18n-ally.sourceLanguage": "ko",
   "i18n-ally.displayLanguage": "ko",
-"[json]": {
+   "[json]": {
   "editor.defaultFormatter": "vscode.json-language-features",
   "editor.formatOnSave": false
 }
